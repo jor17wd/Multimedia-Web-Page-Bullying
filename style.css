@@ -1,0 +1,27 @@
+<html>
+ <head>
+   <style type="text/css">
+   body {
+     background-color: grey}
+     <h1> {background-color: yellow}
+     <h3> {background-color: red}
+     <font-spacing> {letter-spacing: 8px;}
+     {line-height:100px}
+     {margin-bottom:40px;}
+     {font-size: 38px;}
+  </style>
+ </head>
+
+
+<body>
+   article {
+    font-size:14px;
+    font-family:Verdana,Arial;
+    color:#666;
+    margin: 100px auto;
+    padding: 1em;
+    width: 70%
+    }
+ </body>
+
+ </html>
